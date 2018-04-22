@@ -1,0 +1,46 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>	
+    <script src="ext/jquery.min.js"></script>
+	<script src="ext/pixi-4.2.2.js"></script>
+	<script src="ext/pixi-tilemap.js?v=1"></script>
+	<meta charset="UTF-8">
+	<title>Webciv</title>
+	
+</head>
+<body>
+<script>
+
+var renderer = PIXI.autoDetectRenderer(800, 600);
+document.body.appendChild(renderer.view);
+
+var stage,tilemap;
+var frame = 1;
+var loader = new PIXI.loaders.Loader();
+loader.add('legio', 'legio.json');
+loader.add('city_ancient_roman', 'city_ancient_roman.json?v=1');
+loader.load(function(loader, resources) {
+	//third parameter is "true" ONLY IF YOUR TILES ARE SQUARES
+	stage = new PIXI.Container();
+	tilemap = new PIXI.tilemap.CompositeRectTileLayer(0, [resources['legio'].texture, resources['city_ancient_roman'].texture], true);
+	stage.addChild(tilemap);
+	animate(frame);
+	//setInterval(function() { animate(frame++) }, 300);
+});
+
+function animate(frame) {
+	tilemap.clear();
+	var resources = loader.resources;
+	var textures = resources.legio.textures;
+	//console.log(frame%7);
+	//console.log(textures["legio_" + (frame%8) + ".png"]);
+	console.log(resources.city_ancient_roman);
+    tilemap.addFrame(textures["legio_" + (frame%8) + ".png"], 10, 10);	
+	tilemap.addFrame(resources.city_ancient_roman.textures["city_ancient_roman_0.png"], 150, 150);	
+	
+    renderer.render(stage);
+}
+</script>
+ </body>
+ </html>

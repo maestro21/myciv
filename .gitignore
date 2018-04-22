@@ -1,0 +1,9 @@
+*.zip
+/settings.php
+todo.txt
+front/style.css
+/nbproject/private/
+tools/in
+tools/out
+.idea/*
+WORKINGFILES/map objects/all

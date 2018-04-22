@@ -1,0 +1,351 @@
+@keyframes form-animation-select_5_1 {
+   from { background-position: 0px -0px;  }
+   to { background-position: -2200px -0px; }
+}
+
+.anim-form-animation-select_5_1 {
+   background: url(http://localhost/myciv/data/uploads/units/5/select.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-select_5_1 .8s steps(20) infinite;
+}
+
+
+@keyframes form-animation-move_5_1 {
+   from { background-position: 0px -0px;  }
+   to { background-position: -4400px -0px; }
+}
+
+.anim-form-animation-move_5_1 {
+   background: url(http://localhost/myciv/data/uploads/units/5/move.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-move_5_1 .8s steps(40) infinite;
+}
+
+
+@keyframes form-animation-move_5_2 {
+   from { background-position: 0px -110px;  }
+   to { background-position: -4400px -110px; }
+}
+
+.anim-form-animation-move_5_2 {
+   background: url(http://localhost/myciv/data/uploads/units/5/move.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-move_5_2 .8s steps(40) infinite;
+}
+
+
+@keyframes form-animation-move_5_3 {
+   from { background-position: 0px -220px;  }
+   to { background-position: -4400px -220px; }
+}
+
+.anim-form-animation-move_5_3 {
+   background: url(http://localhost/myciv/data/uploads/units/5/move.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-move_5_3 .8s steps(40) infinite;
+}
+
+
+@keyframes form-animation-move_5_4 {
+   from { background-position: 0px -330px;  }
+   to { background-position: -4400px -330px; }
+}
+
+.anim-form-animation-move_5_4 {
+   background: url(http://localhost/myciv/data/uploads/units/5/move.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-move_5_4 .8s steps(40) infinite;
+}
+
+
+@keyframes form-animation-move_5_5 {
+   from { background-position: 0px -440px;  }
+   to { background-position: -4400px -440px; }
+}
+
+.anim-form-animation-move_5_5 {
+   background: url(http://localhost/myciv/data/uploads/units/5/move.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-move_5_5 .8s steps(40) infinite;
+}
+
+
+@keyframes form-animation-move_5_6 {
+   from { background-position: 0px -550px;  }
+   to { background-position: -4400px -550px; }
+}
+
+.anim-form-animation-move_5_6 {
+   background: url(http://localhost/myciv/data/uploads/units/5/move.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-move_5_6 .8s steps(40) infinite;
+}
+
+
+@keyframes form-animation-move_5_7 {
+   from { background-position: 0px -660px;  }
+   to { background-position: -4400px -660px; }
+}
+
+.anim-form-animation-move_5_7 {
+   background: url(http://localhost/myciv/data/uploads/units/5/move.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-move_5_7 .8s steps(40) infinite;
+}
+
+
+@keyframes form-animation-move_5_8 {
+   from { background-position: 0px -770px;  }
+   to { background-position: -4400px -770px; }
+}
+
+.anim-form-animation-move_5_8 {
+   background: url(http://localhost/myciv/data/uploads/units/5/move.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-move_5_8 .8s steps(40) infinite;
+}
+
+
+@keyframes form-animation-attack_5_1 {
+   from { background-position: 0px -0px;  }
+   to { background-position: -1760px -0px; }
+}
+
+.anim-form-animation-attack_5_1 {
+   background: url(http://localhost/myciv/data/uploads/units/5/attack.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-attack_5_1 .8s steps(16) infinite;
+}
+
+
+@keyframes form-animation-attack_5_2 {
+   from { background-position: 0px -110px;  }
+   to { background-position: -1760px -110px; }
+}
+
+.anim-form-animation-attack_5_2 {
+   background: url(http://localhost/myciv/data/uploads/units/5/attack.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-attack_5_2 .8s steps(16) infinite;
+}
+
+
+@keyframes form-animation-attack_5_3 {
+   from { background-position: 0px -220px;  }
+   to { background-position: -1760px -220px; }
+}
+
+.anim-form-animation-attack_5_3 {
+   background: url(http://localhost/myciv/data/uploads/units/5/attack.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-attack_5_3 .8s steps(16) infinite;
+}
+
+
+@keyframes form-animation-attack_5_4 {
+   from { background-position: 0px -330px;  }
+   to { background-position: -1760px -330px; }
+}
+
+.anim-form-animation-attack_5_4 {
+   background: url(http://localhost/myciv/data/uploads/units/5/attack.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-attack_5_4 .8s steps(16) infinite;
+}
+
+
+@keyframes form-animation-attack_5_5 {
+   from { background-position: 0px -440px;  }
+   to { background-position: -1760px -440px; }
+}
+
+.anim-form-animation-attack_5_5 {
+   background: url(http://localhost/myciv/data/uploads/units/5/attack.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-attack_5_5 .8s steps(16) infinite;
+}
+
+
+@keyframes form-animation-attack_5_6 {
+   from { background-position: 0px -550px;  }
+   to { background-position: -1760px -550px; }
+}
+
+.anim-form-animation-attack_5_6 {
+   background: url(http://localhost/myciv/data/uploads/units/5/attack.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-attack_5_6 .8s steps(16) infinite;
+}
+
+
+@keyframes form-animation-attack_5_7 {
+   from { background-position: 0px -660px;  }
+   to { background-position: -1760px -660px; }
+}
+
+.anim-form-animation-attack_5_7 {
+   background: url(http://localhost/myciv/data/uploads/units/5/attack.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-attack_5_7 .8s steps(16) infinite;
+}
+
+
+@keyframes form-animation-attack_5_8 {
+   from { background-position: 0px -770px;  }
+   to { background-position: -1760px -770px; }
+}
+
+.anim-form-animation-attack_5_8 {
+   background: url(http://localhost/myciv/data/uploads/units/5/attack.png) no-repeat;
+   width: 110px;
+   height: 110px;
+   animation: form-animation-attack_5_8 .8s steps(16) infinite;
+}
+
+
+@keyframes form-animation-die_5_1 {
+   from { background-position: 0px -0px;  }
+   to { background-position: -4200px -0px; }
+}
+
+.anim-form-animation-die_5_1 {
+   background: url(http://localhost/myciv/data/uploads/units/5/die.png) no-repeat;
+   width: 175px;
+   height: 175px;
+   animation: form-animation-die_5_1 .8s steps(24) infinite;
+}
+
+
+@keyframes form-animation-select_4_1 {
+   from { background-position: 0px -0px;  }
+   to { background-position: -2280px -0px; }
+}
+
+.anim-form-animation-select_4_1 {
+   background: url(http://localhost/myciv/data/uploads/units/4/select.png) no-repeat;
+   width: 190px;
+   height: 190px;
+   animation: form-animation-select_4_1 .8s steps(12) infinite;
+}
+
+
+@keyframes form-animation-move_4_1 {
+   from { background-position: 0px -0px;  }
+   to { background-position: -2280px -0px; }
+}
+
+.anim-form-animation-move_4_1 {
+   background: url(http://localhost/myciv/data/uploads/units/4/move.png) no-repeat;
+   width: 190px;
+   height: 190px;
+   animation: form-animation-move_4_1 .8s steps(12) infinite;
+}
+
+
+@keyframes form-animation-move_4_2 {
+   from { background-position: 0px -190px;  }
+   to { background-position: -2280px -190px; }
+}
+
+.anim-form-animation-move_4_2 {
+   background: url(http://localhost/myciv/data/uploads/units/4/move.png) no-repeat;
+   width: 190px;
+   height: 190px;
+   animation: form-animation-move_4_2 .8s steps(12) infinite;
+}
+
+
+@keyframes form-animation-move_4_3 {
+   from { background-position: 0px -380px;  }
+   to { background-position: -2280px -380px; }
+}
+
+.anim-form-animation-move_4_3 {
+   background: url(http://localhost/myciv/data/uploads/units/4/move.png) no-repeat;
+   width: 190px;
+   height: 190px;
+   animation: form-animation-move_4_3 .8s steps(12) infinite;
+}
+
+
+@keyframes form-animation-move_4_4 {
+   from { background-position: 0px -570px;  }
+   to { background-position: -2280px -570px; }
+}
+
+.anim-form-animation-move_4_4 {
+   background: url(http://localhost/myciv/data/uploads/units/4/move.png) no-repeat;
+   width: 190px;
+   height: 190px;
+   animation: form-animation-move_4_4 .8s steps(12) infinite;
+}
+
+
+@keyframes form-animation-move_4_5 {
+   from { background-position: 0px -760px;  }
+   to { background-position: -2280px -760px; }
+}
+
+.anim-form-animation-move_4_5 {
+   background: url(http://localhost/myciv/data/uploads/units/4/move.png) no-repeat;
+   width: 190px;
+   height: 190px;
+   animation: form-animation-move_4_5 .8s steps(12) infinite;
+}
+
+
+@keyframes form-animation-move_4_6 {
+   from { background-position: 0px -950px;  }
+   to { background-position: -2280px -950px; }
+}
+
+.anim-form-animation-move_4_6 {
+   background: url(http://localhost/myciv/data/uploads/units/4/move.png) no-repeat;
+   width: 190px;
+   height: 190px;
+   animation: form-animation-move_4_6 .8s steps(12) infinite;
+}
+
+
+@keyframes form-animation-move_4_7 {
+   from { background-position: 0px -1140px;  }
+   to { background-position: -2280px -1140px; }
+}
+
+.anim-form-animation-move_4_7 {
+   background: url(http://localhost/myciv/data/uploads/units/4/move.png) no-repeat;
+   width: 190px;
+   height: 190px;
+   animation: form-animation-move_4_7 .8s steps(12) infinite;
+}
+
+
+@keyframes form-animation-move_4_8 {
+   from { background-position: 0px -1330px;  }
+   to { background-position: -2280px -1330px; }
+}
+
+.anim-form-animation-move_4_8 {
+   background: url(http://localhost/myciv/data/uploads/units/4/move.png) no-repeat;
+   width: 190px;
+   height: 190px;
+   animation: form-animation-move_4_8 .8s steps(12) infinite;
+}
+
+
